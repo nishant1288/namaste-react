@@ -1,0 +1,1 @@
+const jsxHeading = <h1>hi</h1>
