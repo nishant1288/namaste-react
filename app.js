@@ -35,4 +35,4 @@ const secondParent = React.createElement('div', {id: 'parentDiv'}, [
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-root.render(secondParent)
+// root.render(secondParent)
